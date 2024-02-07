@@ -1,0 +1,1 @@
+echo "You have executed unsafe.bat file in the root directory of source code!"
